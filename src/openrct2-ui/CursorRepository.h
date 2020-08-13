@@ -12,7 +12,7 @@
 #include <SDL.h>
 #include <functional>
 #include <map>
-#include <openrct2/interface/Cursors.h>
+#include <openrct2/interface/Cursor.h>
 
 struct SDL_Cursor;
 

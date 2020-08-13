@@ -14,7 +14,7 @@
 #include "../core/IStream.hpp"
 #include "../core/Memory.hpp"
 #include "../drawing/Drawing.h"
-#include "../interface/Cursors.h"
+#include "../interface/Cursor.h"
 #include "../localisation/Language.h"
 #include "../world/Banner.h"
 #include "../world/Location.hpp"

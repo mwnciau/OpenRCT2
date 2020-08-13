@@ -22,7 +22,7 @@
 #include <openrct2/audio/audio.h>
 #include <openrct2/config/Config.h>
 #include <openrct2/interface/Chat.h>
-#include <openrct2/interface/Cursors.h>
+#include <openrct2/interface/Cursor.h>
 #include <openrct2/interface/InteractiveConsole.h>
 #include <openrct2/localisation/Localisation.h>
 #include <openrct2/platform/platform.h>

@@ -19,7 +19,7 @@
 #include "../core/Path.hpp"
 #include "../core/String.hpp"
 #include "../drawing/ImageImporter.h"
-#include "../interface/Cursors.h"
+#include "../interface/Cursor.h"
 #include "../localisation/Language.h"
 #include "../sprites.h"
 #include "Object.h"

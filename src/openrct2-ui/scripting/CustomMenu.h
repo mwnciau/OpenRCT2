@@ -13,7 +13,7 @@
 
 #    include <memory>
 #    include <openrct2/Context.h>
-#    include <openrct2/interface/Cursors.h>
+#    include <openrct2/interface/Cursor.h>
 #    include <openrct2/scripting/Duktape.hpp>
 #    include <openrct2/scripting/ScriptEngine.h>
 #    include <string>

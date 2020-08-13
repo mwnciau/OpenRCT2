@@ -18,7 +18,7 @@
 #include "../config/Config.h"
 #include "../core/Guard.hpp"
 #include "../drawing/Drawing.h"
-#include "../interface/Cursors.h"
+#include "../interface/Cursor.h"
 #include "../localisation/Localisation.h"
 #include "../localisation/StringIds.h"
 #include "../platform/platform.h"

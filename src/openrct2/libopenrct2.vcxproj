@@ -202,7 +202,7 @@
     <ClInclude Include="Input.h" />
     <ClInclude Include="interface\Chat.h" />
     <ClInclude Include="interface\Colour.h" />
-    <ClInclude Include="interface\Cursors.h" />
+    <ClInclude Include="interface\Cursor.h" />
     <ClInclude Include="interface\FontFamilies.h" />
     <ClInclude Include="interface\Fonts.h" />
     <ClInclude Include="interface\InteractiveConsole.h" />

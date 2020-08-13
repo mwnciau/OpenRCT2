@@ -13,7 +13,7 @@
 #include <openrct2/common.h>
 #include <openrct2/config/Config.h>
 #include <openrct2/core/Guard.hpp>
-#include <openrct2/interface/Cursors.h>
+#include <openrct2/interface/Cursor.h>
 
 using namespace OpenRCT2::Ui;
 

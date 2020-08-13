@@ -12,7 +12,7 @@
 #include "../core/IStream.hpp"
 #include "../core/String.hpp"
 #include "../drawing/Drawing.h"
-#include "../interface/Cursors.h"
+#include "../interface/Cursor.h"
 #include "../localisation/Language.h"
 #include "../world/Banner.h"
 #include "ObjectJsonHelpers.h"

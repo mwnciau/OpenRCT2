@@ -11,7 +11,7 @@
 
 #include "../core/IStream.hpp"
 #include "../drawing/Drawing.h"
-#include "../interface/Cursors.h"
+#include "../interface/Cursor.h"
 #include "../localisation/Localisation.h"
 #include "../object/Object.h"
 #include "../object/ObjectRepository.h"

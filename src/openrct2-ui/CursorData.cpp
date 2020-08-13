@@ -9,7 +9,7 @@
 
 #include "CursorRepository.h"
 
-#include <openrct2/interface/Cursors.h>
+#include <openrct2/interface/Cursor.h>
 
 // clang-format off
 namespace OpenRCT2::Ui

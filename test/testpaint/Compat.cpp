@@ -532,9 +532,9 @@ bool track_type_is_station(track_type_t trackType)
 {
     switch (trackType)
     {
-        case TRACK_ELEM_END_STATION:
-        case TRACK_ELEM_BEGIN_STATION:
-        case TRACK_ELEM_MIDDLE_STATION:
+        case TrackType::EndStation:
+        case TrackType::BeginStation:
+        case TrackType::MiddleStation:
             return true;
         default:
             return false;
